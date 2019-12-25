@@ -1,4 +1,4 @@
-Integrative approach of finding mean and variance of Continuous Probability Distributions (Gamma, Normal, Chi-squared, Exponential) in R.\n
+Integrative approach of finding mean and variance of Continuous Probability Distributions (Gamma, Normal, Chi-squared, Exponential) in R.
 Implementation:
 * Mean and variance of Gamma Distribution
 * Mean and variance Normal Distribution
