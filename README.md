@@ -3,4 +3,4 @@ Implementation:
 * Mean and variance of Gamma Distribution
 * Mean and variance Normal Distribution
 * Mean and variance of Chi-squared Distribution
-* Mean and variance of Exponential Distribution
+* Mean and variance of Exponential Distribution.
