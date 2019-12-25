@@ -58,4 +58,4 @@ var_exponential = function(λ){
   var<- (integrate(f = af, upper = Inf, lower = 0))$value - (mean_exponential(λ))^2
   return(var)
 }
-print(var_exponential(40)) #Test
+print(var_exponential(40)) #Test 
